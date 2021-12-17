@@ -125,7 +125,7 @@ Exemple :
 - "squash" des commits ensembles
 
 **Editez ici**
-
+test pour amend
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"
