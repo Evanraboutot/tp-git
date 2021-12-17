@@ -128,15 +128,15 @@ Exemple :
 test pour amend
 # Remonter dans le temps pour trouver un "bug"
 
-- [ ] décochez cette case et commit : "le bug"
+- [X] décochez cette case et commit : "le bug"
 - _message à modifier plus tard_
 -
 -
 -
 -
-- [X] cochez et commit : "après bug 1"
-- [X] cochez et commit : "après bug 2"
-- [X] cochez et commit : "après bug 3"
+- [ ] cochez et commit : "après bug 1"
+- [ ] cochez et commit : "après bug 2"
+- [ ] cochez et commit : "après bug 3"
 
 - Dans le terminal répéter la commande :
   - `git checkout head~1`
